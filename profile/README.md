@@ -4,4 +4,4 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 1.  **Overview Presentations** and a code-along to introduce basic concepts and R skills. [[example](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-slides.html)] 
 2.  **Essential Readings** to deepen your understanding of core concepts. [[example](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-readings.html)]
 3.  **Tutorials or Case Studies** for guided practice analyizing educational data with R. [[example](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-case-study.html)]
-4.  **Learning Lab Badge** that you can earn by demonstrating basic compentencies. [[example](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-badge.html)]
+4.  **Learning Lab Badges** that you can earn by demonstrating basic compentencies. [[example](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-badge.html)]
