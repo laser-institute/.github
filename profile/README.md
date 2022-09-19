@@ -23,10 +23,17 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 
 #### November
 - TBD (EST). **Text Mining Lab 2: Dictionary-Based Methods** [[slides](https://laser-institute.github.io/text-mining/lab-2/slides/tm-lab-2-slides.html)] | [recording]
-- TBD (EST). **Foundational Skills Lab 3: Introduction to Data-Viz** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_3/foundationlab3_badge.html)] | [recording]
+- TBD (EST). **Foundational Skills Lab 3: Introduction to Data-Viz** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_3/intro_dataviz.html)] | [recording]
 - TBD (EST). **Network Analysis Lab 3: Groups, Positions, & Egocentric Analysis** [[slides](https://laser-institute.github.io/network-analysis/lab-3/sna-lab-3-slides.html#1)] | [recording]
 
 #### December
 - TBD (EST). **Machine Learning Lab 3: Model Tuning** [[slides](https://laser-institute.github.io/machine-learning/lab-3/ll-3-overview-presentation.html#1)] | [recording]
 - TBD (EST). **Text Mining Lab 3: Topic Modeling** [[slides](https://laser-institute.github.io/text-mining/lab-3/tm-lab-3-slides.html)] | [recording]
-- 
+
+#### January
+- TBD (EST). **Foundational Skills Lab 4: Data Products** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_4/lab4_product_slides.html#1)] | [recording]
+- TBD (EST). **Network Analysis Lab 4: Statistical Inference & Network Modeling** [[slides](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-slides.html#1)] | [recording]
+
+#### February
+- TBD (EST). **Machine Learning Lab 3: Unspervised Methods** [[slides](https://laser-institute.github.io/machine-learning/lab-4/ll-4-overview-presentation.html#1)] | [recording]
+- TBD (EST). **Text Mining Lab 3: Text Classification** [[slides](https://laser-institute.github.io/text-mining/lab-4/slides/tm-lab-4-slides.html)] | [recording]
