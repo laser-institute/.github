@@ -13,7 +13,7 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 #### September
 - September 16, 12pm (EST). **Foundational Skills Lab 1: Data Used in Learning Analytics** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_1/index.html#1)] | [[recording](https://ncsu.zoom.us/rec/share/Vy41XB4h0qCXiBnDON5-tfqormiBxC4QqOkcvAE3KvWdo6BKm8NXPTHXpqe31sO2.9Cq8Gs9Wz-96UBJa)] (pw: *Q2w6H!j)
 - September 22, 10am (EST). **Network Analysis Lab 1: SNA for Newbies** [[slides](https://laser-institute.github.io/network-analysis/lab-1/sna-lab-1-slides.html#1)] | [recording]
-- September 22, 10am (EST). **Machine Learning Lab 1: Prediction** [[slides](https://laser-institute.github.io/machine-learning/lab-1/ll-1-overview-presentation.html#1)] | [recording]
+- September 29, 10am (EST). **Machine Learning Lab 1: Prediction** [[slides](https://laser-institute.github.io/machine-learning/lab-1/ll-1-overview-presentation.html#1)] | [recording]
 
 #### October
 - TBD (EST). **Text Mining Lab 1: Tidy Text & Tokenization** [[slides](https://laser-institute.github.io/text-mining/lab-1/slides/tm-lab-1-slides.html)] | [recording]
