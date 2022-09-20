@@ -18,7 +18,7 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 #### October
 - TBD (EST). **Text Mining Lab 1: Tidy Text & Tokenization** [[slides](https://laser-institute.github.io/text-mining/lab-1/slides/tm-lab-1-slides.html)] | [recording]
 - TBD (EST). **Foundational Skills Lab 2: Learning Analytics Workflow** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_2/la_workflow_slides.html)] | [recording]
-- TBD (EST). **Network Analysis Lab 2: Data Management & Measurement** [[slides](https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-slides.html#1)] | [recording]
+- October 20, 10am (EST). **Network Analysis Lab 2: Data Management & Measurement** [[slides](https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-slides.html#1)] | [recording]
 - TBD (EST). **Machine Learning Lab 2: Feature Engineering** [[slides](https://laser-institute.github.io/machine-learning/lab-2/ll-2-overview-presentation.html#1)] | [recording]
 
 #### November
