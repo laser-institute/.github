@@ -9,7 +9,7 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 ### Summer Workshop
 [Schedule & Learning Lab Sign-Up](https://docs.google.com/document/d/1_vI6pf00ozJOHOooTNZh9g3P0KacxYWDo74fin_5Kgw/edit?usp=sharing)
 
-### Fall Webinars
+### Fall/Winter Webinars
 #### September
 - September 16, 12pm (EST). **Foundational Skills Lab 1: Data Used in Learning Analytics** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_1/index.html#1)] | [[recording](https://ncsu.zoom.us/rec/share/Vy41XB4h0qCXiBnDON5-tfqormiBxC4QqOkcvAE3KvWdo6BKm8NXPTHXpqe31sO2.9Cq8Gs9Wz-96UBJa)] (pw: *Q2w6H!j)
 - September 22, 10am (EST). **Network Analysis Lab 1: SNA for Newbies** [[slides](https://laser-institute.github.io/network-analysis/lab-1/sna-lab-1-slides.html#1)] | [recording]
