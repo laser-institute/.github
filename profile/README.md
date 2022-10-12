@@ -18,13 +18,13 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 #### October
 - October 14, 10 am (EST). **Text Mining Lab 1: Tidy Text & Tokenization** [[slides](https://laser-institute.github.io/text-mining/lab-1/slides/tm-lab-1-slides.html)] | [recording]
 - October 7, 12 pm (EST). **Foundational Skills Lab 2: Learning Analytics Workflow** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_2/la_workflow_slides.html)] | [recording]
-- October 17, 9 am (EST). **Machine Learning Lab 2: Feature Engineering** [[slides](https://laser-institute.github.io/machine-learning/lab-2/ll-2-overview-presentation.html#1)] | [recording]
 - October 27, 10 am (EST). **Network Analysis Lab 2: Data Management & Measurement** [[slides](https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-slides.html#1)] | [recording]
 
 #### November
 
 - November 12, 12 pm (EST).. **Foundational Skills Lab 3: Introduction to Data-Viz** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_3/intro_dataviz.html)] | [recording]
 - November 17, 10 am (EST). **Network Analysis Lab 3: Groups, Positions, & Egocentric Analysis** [[slides](https://laser-institute.github.io/network-analysis/lab-3/sna-lab-3-slides.html#1)] | [recording]
+- November 21, 9 am (EST). **Machine Learning Lab 2: Feature Engineering** [[slides](https://laser-institute.github.io/machine-learning/lab-2/ll-2-overview-presentation.html#1)] | [recording]
 
 #### December
 - December 2, 10 am (EST). **Text Mining Lab 2: Dictionary-Based Methods** [[slides](https://laser-institute.github.io/text-mining/lab-2/slides/tm-lab-2-slides.html)] | [recording]
