@@ -13,7 +13,7 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 #### September
 - September 16, 12 pm (EST). **Foundational Skills Lab 1: Data Used in Learning Analytics** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_1/index.html#1) | [recording](https://ncsu.zoom.us/rec/share/Vy41XB4h0qCXiBnDON5-tfqormiBxC4QqOkcvAE3KvWdo6BKm8NXPTHXpqe31sO2.9Cq8Gs9Wz-96UBJa)]
 - September 22, 10 am (EST). **Network Analysis Lab 1: SNA for Newbies** [[slides](https://laser-institute.github.io/network-analysis/lab-1/sna-lab-1-slides.html#1) | [recording](https://ncsu.zoom.us/rec/share/dZX7dqt_SQPQVFHOG4ZiX-Kr0UsPC84IGnrjhh_RnC5Tf-aAgNF0mb8DzcZnUPVs.cbNdKW9-zXNkQl0a)] 
-- September 29, 10 am (EST). **Machine Learning Lab 1: Prediction** [[slides](https://laser-institute.github.io/machine-learning/lab-1/ll-1-overview-presentation.html#1)] | [recording]
+- September 29, 10 am (EST). **Machine Learning Lab 1: Prediction** [[slides](https://laser-institute.github.io/machine-learning/lab-1/ll-1-overview-presentation.html#1) | [recording](https://ncsu.zoom.us/rec/share/V5-erll-xopHU_3RVA3vkkGFBsAF-84B6Ew0DVc4EzJW9uCQ9lvhSzALDZiPi86V.dH-Qlt3Spoblc9IR)]
 
 #### October
 - October 14, 10 am (EST). **Text Mining Lab 1: Tidy Text & Tokenization** [[slides](https://laser-institute.github.io/text-mining/lab-1/slides/tm-lab-1-slides.html) | [recording](https://ncsu.zoom.us/rec/share/dNl-h00tWMMHulMQyhC7Z2gILYaddbzYR5Ll-kQ7BazjAuIKnXa9M-BXyg2FdrfA.u4enjaQDSINtlvyC)]
