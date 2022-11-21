@@ -24,7 +24,7 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 
 - November 7, 12 pm (EST).. **Foundational Skills Lab 3: Introduction to Data-Viz** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_3/intro_dataviz.html) | [recording](https://ncsu.zoom.us/rec/share/TbvYsDSbEJ6TLYAPv8xgg2jVC1wTVGXOJTjI0cCKd1YsRbcwvn6MBKEE4gnMIQU5.k2hE3g96pZwvgjX2)]
 - November 17, 10 am (EST). **Network Analysis Lab 3: Groups, Positions, & Egocentric Analysis** [[slides](https://laser-institute.github.io/network-analysis/lab-3/sna-lab-3-slides.html#1) | [recording](https://ncsu.zoom.us/rec/share/pbOSDU48APoUsevYVXmpvKdw1LwwQoI4oApU0OaK51EN9gsAfbirvXjWsgdxYFiR.8SKB0_3NrNHPKn15)]
-- November 21, 9 am (EST). **Machine Learning Lab 2: Feature Engineering** [[slides](https://laser-institute.github.io/machine-learning/lab-2/ll-2-overview-presentation.html#1)] | [recording]
+- November 21, 9 am (EST). **Machine Learning Lab 2: Feature Engineering** [[slides](https://laser-institute.github.io/machine-learning/lab-2/ll-2-overview-presentation.html#1) | [recording](https://ncsu.zoom.us/rec/share/B_0gmUNur1wMNrkk3VskrPbO1YAnaC6_KCab1dEYvTlFWugy9W-G0GWsbvo5Rk9K.L39pVmhFJGfhcGK5?startTime=1669038423000)]
 
 #### December
 - December 2, 10 am (EST). **Text Mining Lab 2: Dictionary-Based Methods** [[slides](https://laser-institute.github.io/text-mining/lab-2/slides/tm-lab-2-slides.html)] | [recording]
