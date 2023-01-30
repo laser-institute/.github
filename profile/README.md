@@ -27,15 +27,14 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 - November 21, 9 am (EST). **Machine Learning Lab 2: Feature Engineering** [[slides](https://laser-institute.github.io/machine-learning/lab-2/ll-2-overview-presentation.html#1) | [recording](https://ncsu.zoom.us/rec/share/B_0gmUNur1wMNrkk3VskrPbO1YAnaC6_KCab1dEYvTlFWugy9W-G0GWsbvo5Rk9K.L39pVmhFJGfhcGK5?startTime=1669038423000)]
 
 #### December
-- December 2, 10 am (EST). **Text Mining Lab 2: Dictionary-Based Methods** [[slides](https://laser-institute.github.io/text-mining/lab-2/slides/tm-lab-2-slides.html)] | [recording]
+- December 2, 10 am (EST). **Text Mining Lab 2: Dictionary-Based Methods** [[slides](https://laser-institute.github.io/text-mining/lab-2/slides/tm-lab-2-slides.html)] | [[recording](https://ncsu.zoom.us/rec/share/CLWulu88b9IaIsR1LR1tlHoSZm6yD7gK9wPlfLAdJowdXh2J3akVW-7UPf6lUgs.22_m7o3c51H_S8_N)]
 
 #### January
 - January 6, 10am (EST). **Text Mining Lab 3: Topic Modeling** [[slides](https://laser-institute.github.io/text-mining/lab-3/tm-lab-3-slides.html)] | [recording]
-- January 13, 10am (EST). **Foundational Skills Lab 4: Data Products** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_4/lab4_product_slides.html#1)] | [recording]
 - January 19, 10 am (EST). **Machine Learning Lab 3: Model Tuning** [[slides](https://laser-institute.github.io/machine-learning/lab-3/ll-3-overview-presentation.html#1)] | [recording]
-
+- January 26, 10 am (EST). **Network Analysis Lab 4: Statistical Inference & Network Modeling** [[slides](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-slides.html#1)] | [[recording](https://ncsu.zoom.us/rec/share/mNROCHaS-s9u4HkSEEpNl2-6aC30db68UnrRk0yQP9EW-IDLXQPNjMKkmwhdpvXj.iiEfd0gmmzVogtH1)]
 
 #### February
 - February 3, 10am (EST). **Text Mining Lab 4: Text Classification** [[slides](https://laser-institute.github.io/text-mining/lab-4/slides/tm-lab-4-slides.html)] | [recording]
-- February 6, 10 am (EST). **Network Analysis Lab 4: Statistical Inference & Network Modeling** [[slides](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-slides.html#1)] | [recording]
+- February 6, 10 am (EST). **Foundational Skills Lab 4: Data Products** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_4/lab4_product_slides.html#1)] | [recording]
 - February 14, 1pm (EST). **Machine Learning Lab 4: Unsupervised Methods** [[slides](https://laser-institute.github.io/machine-learning/lab-4/ll-4-overview-presentation.html#1)] | [recording]
