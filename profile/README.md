@@ -37,4 +37,4 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 #### February
 - February 3, 10am (EST). **Text Mining Lab 4: Text Classification** [[slides](https://laser-institute.github.io/text-mining/lab-4/slides/tm-lab-4-slides.html)] | [recording]
 - February 6, 10 am (EST). **Foundational Skills Lab 4: Data Products** [[slides](https://laser-institute.github.io/foundational-skills/foundation_lab_4/lab4_product_slides.html#1)] | [recording]
-- February 14, 1pm (EST). **Machine Learning Lab 4: Unsupervised Methods** [[slides](https://laser-institute.github.io/machine-learning/lab-4/ll-4-overview-presentation.html#1)] | [recording](https://tennessee.zoom.us/rec/share/QTx--ZYanQjvdE8K9U986MI7kE5IBA7hIlEgIG6v8CFIJh2Bo34B7x-xp7lkra7r.TU6_jLU3HKeXW965)
+- February 14, 1pm (EST). **Machine Learning Lab 4: Unsupervised Methods** [[slides](https://laser-institute.github.io/machine-learning/lab-4/ll-4-overview-presentation.html#1)] | [[recording](https://tennessee.zoom.us/rec/share/QTx--ZYanQjvdE8K9U986MI7kE5IBA7hIlEgIG6v8CFIJh2Bo34B7x-xp7lkra7r.TU6_jLU3HKeXW965)]
