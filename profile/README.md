@@ -7,7 +7,7 @@ A significant portion of the LASER Institute consists of Learning Labs, which ar
 4.  **Learning Lab Badges** that you can earn by demonstrating basic compentencies. [[example](https://laser-institute.github.io/network-analysis/lab-4/sna-lab-4-badge.html)]
 
 ### Summer Workshop
-[Schedule & Learning Lab Sign-Up](https://docs.google.com/document/d/1_vI6pf00ozJOHOooTNZh9g3P0KacxYWDo74fin_5Kgw/edit?usp=sharing)
+[Schedule & Learning Lab Sign-Up]([https://docs.google.com/document/d/1_vI6pf00ozJOHOooTNZh9g3P0KacxYWDo74fin_5Kgw/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vQpdlHBZXhv1va9ZwWTNEwvPEb9gLfproiIS5XqlXeSrpBKr97f_q0eSCLNjwPv6oXMnOiZFzWDc6L_/pub))
 
 ### Fall/Winter Webinars
 #### September
